@@ -1,3 +1,15 @@
+FOR LIVE VIEW STEPS
+
+SETPS - 1 : npm run build
+STEPS - 2 : npm install -g surge
+STEPS - 3 : surge dist
+STEPS - 4 : ENTER EMAIL IF YOU WANT TO THEN DONT NEED PASS JUST PRESS ENTER ENTER 
+STEPS - 4 : CHECK FOR DOMAIN AND THAT IS YOU LIVE LINK
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
